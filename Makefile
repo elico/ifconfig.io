@@ -1,3 +1,5 @@
+all: init-buildc build publish
+
 build:
 	bash build.sh
 publish:
